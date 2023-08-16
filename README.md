@@ -15,6 +15,7 @@ Performance test project example using Locust
 <h3><ins>Example:</h3>
 
 - HTTP request load test scenario
-- HTTP request stress test scenario (in progress)
-- HTTP request spike test scenario (in progress)
-- GRPC request load test scenario (in progress)
+- HTTP request stress test scenario (added soon)
+- HTTP request spike test scenario (added soon)
+- GRPC request load test scenario (added soon)
+- ... and more 😄
